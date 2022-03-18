@@ -1,2 +1,2 @@
 # odin-recipes
-A simple project meant to test what I've learned so far in The Odin Project.
+A simple project meant to test what I've learned so far in The Odin Project. This project will consist of a basic recipe website with a main index page and several recipe pages linked to it. This should demonstrate that I know basic HTML. It should also allow me to move on to learning more interesting concepts.
