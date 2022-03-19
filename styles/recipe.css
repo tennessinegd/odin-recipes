@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+}
+
+h1, h2, h3 {
+    color: white;
+    background-color: #4960dd;
+    text-align: center;
+    font-weight: normal;
+    font-family: "Tahoma", sans-serif;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    font-family: "Tahoma", sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    display: block;
+    text-align: center;
+    font-family: "Tahoma", sans-serif;
+}

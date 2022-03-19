@@ -1,0 +1,25 @@
+img {
+    display: block;
+    height: auto;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: white;
+    background-color: #4960dd;
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: "Tahoma", sans-serif;
+}
+
+p {
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+}
+
+ul {
+    font-family: "Tahoma", sans-serif;
+}
